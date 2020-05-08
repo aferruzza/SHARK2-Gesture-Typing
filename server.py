@@ -1,15 +1,3 @@
-'''
-
-You can modify the parameters, return values and data structures used in every function if it conflicts with your
-coding style or you want to accelerate your code.
-
-You can also import packages you want.
-
-But please do not change the basic structure of this file including the function names. It is not recommended to merge
-functions, otherwise it will be hard for TAs to grade your code. However, you can add helper function if necessary.
-
-'''
-
 import json
 import math
 import time
